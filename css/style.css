@@ -103,17 +103,20 @@ h2 {
   color: #419681;
   font-weight: bold;
   margin: 10px 0 0 0;
+  width: 40%;
 }
 
 .time {
   float: right;
   margin: 10px 17px 0 0;
+  width: 81px;
 }
 
 .destination {
   font-size: 16px;
   margin: 0 0 0 75px;
   padding: 0;
+  width: 60%;
 }
 
 .bold {
@@ -133,4 +136,13 @@ h2 {
 .alert {
   float: right;
   padding: 10px 5px 0 5px;
+}
+
+/******Out of Service******/
+.gray {
+  color: #828282;
+}
+
+.oos {
+  background-color: #BABABA;
 }
